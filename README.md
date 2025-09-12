@@ -14,7 +14,7 @@
 
 
 
-- 🌱 I’m currently learning **JAVA ,Python ,SQL ,R ,Power BI ,Looker Studio **
+- 🌱 I’m currently learning <h3 align="center">JAVA ,Python ,SQL ,R ,Power BI ,Looker Studio </h3>
 
 - 👨‍💻 All of my projects are available at https://github.com/VeeshaFatima890
 - 📫 How to reach me **veeshafatima@gmail.com**
