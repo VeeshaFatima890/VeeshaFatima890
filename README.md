@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/VeeshaFatima890/VeeshaFatima890/main/banner.png" alt="Coffee in, Code out" />
+  <img src="https://github.com/VeeshaFatima890/VeeshaFatima890/blob/main/Black%20White%20Modern%20Financial%20Content%20YouTube%20Banner.png" alt="Coffee in, Code out" />
 </p>
