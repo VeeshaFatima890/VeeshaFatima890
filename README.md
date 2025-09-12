@@ -14,7 +14,16 @@
 
 
 
-- 🌱 I’m currently learning <h4 align="left">JAVA ,Python ,SQL ,R ,Power BI ,Looker Studio </h4>
+<h4 align="left">🌱 I’m currently learning:</h4>
+
+<ul align="left">
+  <li>Java</li>
+  <li>Python</li>
+  <li>SQL</li>
+  <li>R</li>
+  <li>Power BI</li>
+  <li>Looker Studio</li>
+</ul>
 
 - 👨‍💻 All of my projects are available at https://github.com/VeeshaFatima890
 - 📫 How to reach me **veeshafatima@gmail.com**
