@@ -16,7 +16,7 @@
 
 💡 Growing Knowledge In  
 
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white) [SQL](https://img.shields.io/badge/SQL-003B57.svg?style=for-the-badge&logo=databricks&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3.svg?style=for-the-badge&logo=r&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-003B57.svg?style=for-the-badge&logo=databricks&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3.svg?style=for-the-badge&logo=r&logoColor=white)  
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black) ![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4.svg?style=for-the-badge&logo=looker&logoColor=white)
 
 
