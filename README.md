@@ -15,9 +15,12 @@
 
 
 💡 Growing Knowledge In  
-
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-003B57.svg?style=for-the-badge&logo=databricks&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3.svg?style=for-the-badge&logo=r&logoColor=white)  
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black) ![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4.svg?style=for-the-badge&logo=looker&logoColor=white)
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java) 
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python) 
+![SQL](https://img.shields.io/badge/SQL-darkblue?style=for-the-badge&logo=databricks) 
+![R](https://img.shields.io/badge/R-blue?style=for-the-badge&logo=r) 
+![Power BI](https://img.shields.io/badge/Power_BI-yellow?style=for-the-badge&logo=powerbi) 
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker)
 
 
 - 👨‍💻 All of my projects are available at https://github.com/VeeshaFatima890
