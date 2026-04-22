@@ -13,12 +13,7 @@
 
 💡 Growing Knowledge In  
 
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java) 
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python) 
-![SQL](https://img.shields.io/badge/SQL-darkblue?style=for-the-badge&logo=databricks) 
-![R](https://img.shields.io/badge/R-blue?style=for-the-badge&logo=r) 
-![Power BI](https://img.shields.io/badge/Power_BI-yellow?style=for-the-badge&logo=powerbi) 
-![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker)
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java) ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python) ![SQL](https://img.shields.io/badge/SQL-darkblue?style=for-the-badge&logo=databricks) ![R](https://img.shields.io/badge/R-blue?style=for-the-badge&logo=r) ![Power BI](https://img.shields.io/badge/Power_BI-yellow?style=for-the-badge&logo=powerbi) ![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker)
 
 
 - 👨‍💻 All of my projects are available at https://github.com/VeeshaFatima890
